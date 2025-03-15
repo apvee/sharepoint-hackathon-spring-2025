@@ -34,16 +34,14 @@ With **intelligent AI-driven analytics**, Apvee Dashboard not only aggregates ke
 - **Azure AI Foundry** (for LLM-based AI features)
 
 ## 🚀 Roadmap
-- 🔄 More widget integrations (Planner, Yammer, etc.)
-- 📊 Enhanced analytics and visualization
-- 🗣️ Natural Language Processing for AI-driven insights
-- 🔄 Cross-device synchronization improvements
+- 🔄 More Widgets and Features
+- ✨ Enhanced AI Features and Actionables
 
 ## 🤝 Contributing
-**This repository does not contain the source code and contributing are not accepted**!
-It is intended for presenting the Apvee Dashboard at the **SharePoint Hackathon Spring 2025**. 
+**This repository does not contain the source code and contributing are not accepted**!  
+It is intended for presenting the Apvee Dashboard at the **SharePoint Hackathon Spring 2025**.  
 If you are **interested in a demo or partnership**, please reach out to us.
 
 ## 📨 Contact
-📧 **Apvee Solutions** - [hello@apvee.com](mailto:hello@apvee.com)
+📧 **Apvee Solutions** - [hello@apvee.com](mailto:hello@apvee.com)  
 🌍 **Website** - [https://apvee.com](https://apvee.com)
