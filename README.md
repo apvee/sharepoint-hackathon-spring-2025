@@ -21,8 +21,29 @@ With **intelligent AI-driven analytics**, Apvee Dashboard not only aggregates ke
 - **Seamless Integration**: Works within SharePoint portals, Microsoft Teams, or Microsoft 365 Home.
 - **Powered by Azure AI Foundry**: Utilizing advanced LLM models for intelligent recommendations and insights.
 
-## 📺 Demo Video
-[![Watch the demo](./assets/apvee-dashboard-demo-cover.png)](./assets/apvee-dashboard-demo-4k.mp4)
+## 📺 Demo Videos
+[![Watch the full demo](./assets/apvee-dashboard-demo-cover.png)](./assets/apvee-dashboard-demo-4k.mp4)
+*Demo: Click and watch the full demo*
+
+### Short 'Dashboard' Demo
+![Dashboard Demo](./assets/dashboard-demo.gif)
+*Dashboard: Effortlessly drag & drop and arrange widgets in your personalized Dashboard.*
+
+### Short 'Daily Recap' Demo
+![Daily Recap Demo](./assets/daily-recap-demo.gif)
+*Daily Recap: Get a smart, AI-powered daily recap from your emails, agenda, and tasks in seconds.*
+
+### Short 'Emails Recap' Demo Video
+![Daily Recap Demo](./assets/emails-recap-demo.gif)
+*Emails Recap: AI-powered insights for your emails—get summaries and proactive suggestions instantly.*
+
+### Short 'Agenda Recap' Demo Video
+![Daily Recap Demo](./assets/agenda-recap-demo.gif)
+*Agenda Recap: Stay on top of your schedule with AI-powered agenda insights and smart suggestions.*
+
+### Short 'Tasks Recap' Demo Video
+![Daily Recap Demo](./assets/tasks-recap-demo.gif)
+*Tasks Recap: Prioritize your day with AI-powered task insights and proactive recommendations.*
 
 ## 🏗️ Technology Stack
 - **SharePoint Framework (SPFx)**
